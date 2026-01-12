@@ -1,5 +1,5 @@
 --- Configs
-local flybutton = "e"
+local flybutton = "g"
 local flyspeed = 100
 local controls = {
 	front = "w",
